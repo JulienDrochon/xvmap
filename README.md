@@ -2,6 +2,8 @@
 Video Mapping App
 Lightweight. Simple. Cross Platform.
 
+https://raw.githubusercontent.com/JulienDrochon/xvmap/main/preview.gif
+
 XVmap is a simple and free video mapping app for everyone. 
 XVmap is perfectly adapted for the Raspberry Pi 4's dual screen setup.
 
